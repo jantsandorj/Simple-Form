@@ -1,0 +1,22 @@
+.container{
+    max-width: 560px;
+    margin: auto;
+    width: 100%;
+}
+.space{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+div{
+    display: flex;
+    text-align: end;
+    gap: 5px;
+}
+label{
+    width: 30%;
+}
+button{
+    width: 30%;
+    align-self: center;
+}
